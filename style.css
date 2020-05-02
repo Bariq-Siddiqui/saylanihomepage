@@ -1,0 +1,432 @@
+
+    #tr{
+        display: flex;
+        flex-wrap: wrap;   
+        height: 60px;
+        text-align: center;
+        background-color:rgb(77, 52, 226);
+    }
+    #img1{
+        margin-top: 20px;
+        
+        margin-left: 100px;
+        width: 20px;
+        height: 20px;
+    }
+    #img2{
+        margin-top: 20px;
+        margin-left: 10px;
+        width: 20px;
+        height: 20px;
+    }
+    #img3{
+        margin-top: 20px;
+        margin-left: 10px;
+        width: 20px;
+        height: 20px;
+    }
+    #img4{
+        margin-top: 20px;
+        margin-left: 10px;
+        height: 20px;
+        width: 20px;
+    }
+    #img5{
+        margin-top: 20px;
+        margin-left: 10px;
+        width: 20px;
+        height: 20px;
+    }
+    #td
+    {
+        margin-top: 20px;
+        margin-left: 100px;
+        color:white ;
+        text-align: center;
+        font-size: 14px;
+      
+      
+    }
+   
+    #div1{
+        background-color:white;
+        height: 15px;
+        width: 50px;
+        text-align: center;
+        color: slategray;
+        font-size: 10px;
+        margin-top: 25px;
+        margin-left: 100px;
+        
+    }
+    #div2{
+        background-color: white;
+        height: 15px;
+        width: 60px;
+        margin-top: 25px;
+        margin-left: 5px;   
+        color: slategray;
+        font-size: 10px;
+        text-align: center;
+    }
+    #div3{
+        background-color: white;
+        height: 15px;
+        width: 60px;
+        text-align: center;
+        margin-top: 25px;
+        margin-left: 5px;
+        color: slategray;
+        font-size: 10px;
+    }
+
+    #tr1{
+        position: absolute;
+        top: 40;
+        
+    }
+.aaa{
+    
+    
+}
+
+    #img11{
+        position: absolute;
+        left: 50px;
+    }
+    #d1{
+        border-radius: 8px 8px 8px 8px;
+        background-color: blue;
+        font-weight: bold;
+        position: absolute;
+        left: 490px;
+        top: 80px;
+        font-size: 16px;
+    }
+    #d2{
+        position: absolute;
+        left: 555px;
+        top: 80px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    #d3{font-weight: bold;
+        position: absolute;
+        left: 620px;
+        top: 80px;
+        font-size: 16px;
+    }
+    #d4{
+        position: absolute;
+        left: 740px;
+        top: 80px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    #d5{
+        position: absolute;
+        left: 860px;
+        top: 80px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    #d6{
+        font-weight: bold;
+        position: absolute;
+        left: 930px;
+        top: 80px;
+        font-size: 16px;
+    }
+    #d7{
+        position: absolute;
+        left: 1000px;
+        top: 80px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    #d8{
+        position: absolute;
+        left: 1100px;
+        top: 80px;
+        font-size: 16px;
+        font-weight: bold;
+    }
+    #divv{
+        margin-top: 70px;   
+        top: 120px;
+        width: 100%;
+        height: 400;
+        left: 140px;
+        
+    }
+    @media only screen and (max-width:50%){
+        divv{
+            width: 20%;
+        }
+
+    }
+    #c1{
+        margin-top: 20px;
+        background-color:rgb(14, 100, 209);
+        color: white;
+        font-size: 12px;
+    }
+    .c2{
+        color: rgb(0, 238, 0);
+    }
+    .c3{
+        color: darkblue;
+    }
+    .ca{
+        
+        background-color:rgb(247, 245, 245) ;
+    }
+    #c4{
+        
+        margin-top: 40px;
+        text-align: center;
+        font-size: 32px;
+        font-weight: bolder;
+    }
+    .c5{
+        color: darkgreen;
+    }
+    #e1{
+        margin-left: 560px;
+        width: 100px;
+        height: 100px;
+    }
+    #e2{
+       
+        text-align: justify;
+        width: 990px;
+        margin-left: 130px;
+        font-size: 14px;
+    }
+    .f1{
+    
+        background-color: blue;
+    
+        height: 250px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    #f2{
+        width: 300px;
+        height: 250px;
+        text-align: center;
+        border: 2px solid blue;
+        
+    }
+    #f3{
+        width: 300px;
+        height: 250px;
+        text-align: center;
+        border: 2px solid blue;
+    }
+    #f4{
+        width: 300px;
+        height: 250px;
+        text-align: center;
+        border: 2px solid blue;
+    }
+    #f5{  
+        width: 300px;
+        height: 250px;
+        text-align: center;
+        border: 2px solid blue;
+    }
+    .f6{
+        color: rgb(0, 238, 0);
+        font-size: 20px;
+        font-weight: bolder;
+    }
+    .f7{
+        width: 50px;
+        margin-top: 70px;
+
+    }
+    .f8{
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .f9{
+        color: white;
+        font-size: 32px;
+        font-weight: bold;
+    }
+    #f10{
+        font-size: 32px;
+        margin-left: 430px;
+        font-weight: bolder;
+    }
+
+    #f11{
+        margin-left: 130px;
+        width: 100px;
+        height: 40px;
+    }
+    .h1{
+        margin-left:px;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30px;
+        flex-wrap: wrap;
+    }
+    .h2{
+        width: 360px;
+        height: 200px;
+        border: 2px solid white;
+        background-color: white;
+        text-align: center;
+        
+    }
+    .h3{
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30px;
+        flex-wrap: wrap;
+    }
+    .h4{
+        text-align: center;
+        width: 360px;
+        height: 200px;
+        border: 2px solid white;
+        background-color: white;
+        box-shadow: white;
+        
+    }
+    .h5{
+        background-color:rgb(247, 245, 245) ;
+    }
+    .i1{
+        margin-top: 20px;
+        color: blue;
+        font-size: 22px;
+    }
+    .i2{
+        margin-top: 30px;
+        width: 80px;
+        height: 80px;
+    }
+    .i3{
+        display: flex;
+        justify-content: space-around;
+        width: 990px;
+        margin-top: 50px;
+        margin-left: 130px;
+    }
+    .i4{
+        width: 300px;
+        height: 80px;
+        border: ;
+        background-color:rgb(247, 245, 245) ;
+        color: blue;
+        font-size: 18px;
+        font-weight: bold;
+        
+    }
+    .i5{
+        display: flex;
+        justify-content: space-around;
+        width: 990px;
+        margin-top: 100px;
+        margin-left: 130px;
+     flex-wrap: wrap;
+
+    }
+    .i6{
+        width: 630px;
+        margin-left: px;
+        color: blue;
+        font-weight: bold;
+        font-size: 24px;
+    }
+    .i7{
+        color: blue;
+        font-weight: bold;
+        font-size: 24px;
+        width: 300px;
+    }
+    .i8{
+        width: 300px;
+        height: 80px;
+        border: ;
+        background-color:white;
+    }
+    .i9{
+        margin-top: 20px;
+        margin-left: 30px;
+        width: 30px;
+        height: 30px;
+
+    }
+    .i10{
+        margin-top: 80px;
+        margin-left: 40px;
+    }
+    .j1{
+        color: blue;
+    }
+    .j2{
+        text-align: center;
+        font-size: 36px;
+    font-weight: bold;
+    margin-top: 130px;
+    }
+    .j3{
+        display: flex;
+        margin-top: 50px;
+        margin-left: 20px;
+        flex-wrap: wrap;
+    justify-content: space-around;
+    }
+    .j4{
+        width: 240px;
+        height: 160px;
+    }
+    .k1{
+        background-color: rgb(49, 45, 45);
+        height: 370px;
+    }
+    .k2{
+        display: flex;
+        margin-top: 200px;
+        flex-wrap: wrap;
+    }
+    .k3{
+        flex-wrap: wrap;
+        width: 300px;
+        color: white;
+        margin-top: 80px;
+        font-size: 12px;
+        margin-left: 70px;
+    float: left;    
+    }
+    .k5{
+        color: white;
+        height: 40px;
+        background-color: rgb(20, 120, 219);
+    }
+    #k6{
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .k7{
+        margin-left: 100px;
+        font-size: 11px;
+    }
+    .k8{
+        width: 15px;
+        height: 15px;
+    }
+    .k9{
+        margin-left: 20px;
+    }
+    .k10{
+        width: 30px;
+        height: 30px;
+    }
