@@ -1,0 +1,19 @@
+h1>b{
+    color: blue;
+}
+div{
+    
+     background-color: rgb(83, 75, 221) ; 
+}
+div>p{
+    color: white;
+}
+tr{
+    color: white;
+}
+div p {
+    padding-left: 3.3cm;
+}
+img{
+    padding-left: 12cm;
+}
